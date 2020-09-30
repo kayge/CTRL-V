@@ -1,9 +1,9 @@
 <h1 align = "center">CTRL-V Aplicação web </h1>
 
-![GitHub top language](https//img.shields.io/github/languages/top/felippeGEC/CTRL-V)
-<img alt="GitHub repo size" src="https//img.shields.io/github/repo-size/felippeGEC/CTRL-V">
-<img alt="GitHub repo size" src="https//img.shields.io/github/contributors/felippeGEC/CTRL-V">
-<img alt="GitHub repo size" src="https//img.shields.io/github/last-comit/felippeGEC/CTRL-V">
+![GitHub top language](https://img.shields.io/github/languages/top/felippeGEC/CTRL-V)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/felippeGEC/CTRL-V">
+<img alt="GitHub repo size" src="https://img.shields.io/github/contributors/felippeGEC/CTRL-V">
+<img alt="GitHub repo size" src="https://img.shields.io/github/last-comit/felippeGEC/CTRL-V">
 
 
 <h2>Descrição do Projeto</h2>
