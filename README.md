@@ -13,4 +13,7 @@
   <li>Banco de dados Relacional: Mysql</li>
 <ul>
 <h2>Status do Projeto<h2>
-  :computer: Em andamento :computer:
+:computer: Em andamento :computer:
+
+<h2>Licença</h2>
+<img alt="GitHub" src="https://img.shields.io/github/license/felippeGEC/CTRL-V">
