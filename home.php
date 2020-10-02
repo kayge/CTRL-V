@@ -35,7 +35,7 @@
       <div class="card">
         <div class="card-body">
           <form method="post" action="inclui_codigo.php" id="codigocadastrar">
-               <div clsas="form-group">
+               <div class="form-group">
                <input type="text" class="form-control" id="codigo" name="codigo" placeholder="Digite seu codigo aqui" required="requiored">
                <button type="submit" class="btn btn-info form-control" id="btncodigo">Postar</button>
                <?php                 
